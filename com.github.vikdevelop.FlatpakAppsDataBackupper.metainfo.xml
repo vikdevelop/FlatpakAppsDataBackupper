@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+    <id>com.github.vikdevelop.FlatpakAppsDataBackupper</id>
+    <launchable type="desktop-id">com.github.vikdevelop.FlatpakAppsDataBackupper.desktop</launchable>
+    <name>Flatpak Apps Data Backupper</name>
+    <summary>Back up your Flatpak apps data easily.</summary>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>GPL-3.0-or-later</project_license>
+
+    <description>
+        <p>Do you use Flatpak apps? Then this tool might be useful for you. One click to export data to your computer and if your OS breaks and you have to reinstall it, a simple click to import the Flatpak data back.</p>
+    </description>
+
+    <url type="homepage">https://github.com/vikdevelop/FlatpakAppsDataBackupper</url>
+    <url type="bugtracker">https://github.com/vikdevelop/FlatpakAppsDataBackupper/issues</url>
+
+    <screenshots>
+        <screenshot type="default">
+            <image>https://raw.githubusercontent.com/vikdevelop/FlatpakAppsDataBackupper/main/screenshots/flatpak_backupper.png</image>
+        </screenshot>
+    </screenshots>
+
+    <content_rating type="oars-1.1"/>
+
+    <categories>
+        <category>Tools</category>
+    </categories>
+
+    <releases>
+        <release version="1.0" date="2022-04-23">
+        </release>
+  </releases>
+</component>

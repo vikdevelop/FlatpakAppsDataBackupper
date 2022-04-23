@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Flatpak Apps Data Backupper
+Type=Application
+Exec=run.sh
+Icon=com.github.vikdevelop.FlatpakAppsDataBackupper
+Categories=Tools
+Comment=Back up your Flatpak apps data easily.
+Comment[cs]=Zálohujte si data aplikací Flatpak jednoduše.
+Comment[de]=Sichern Sie Ihre Flatpak-Daten einfach.
+Comment[ua]=Просто створіть резервні копії даних Flatpak.
