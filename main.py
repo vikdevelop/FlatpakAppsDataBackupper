@@ -109,7 +109,7 @@ class PKGBackerWindow(Gtk.Window):
         if not os.path.exists("%s/.var/app" % HOME):
             os.makedirs("%s/.var/app" % HOME)
         os.system("tar -xf *.tar.gz")
-        shutil.move("app", "%s/.var/app")
+        shutil.move("app", "%s/.var/app" % HOME)
         # Dialog_import window
         dialog_m = Dialog_import(self)
         response_m = dialog_m.run()
