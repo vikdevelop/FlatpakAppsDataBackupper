@@ -19,5 +19,6 @@ modules:
       - install -D -t /app/share/applications $FLATPAK_ID.desktop
       - install -D -t /app/share/icons/hicolor/128x128/apps $FLATPAK_ID.png
     sources:
-      - type: dir
-        path: /home/viktor/Projects/Flatpak_data_backupper
+      - type: archive
+        url: https://github.com/vikdevelop/FlatpakAppsDataBackupper/archive/refs/tags/1.0.tar.gz
+        sha256: 5c6542706cf8219a468e6d0253945b89e9a02709de43f2324a64e93b17301a10
