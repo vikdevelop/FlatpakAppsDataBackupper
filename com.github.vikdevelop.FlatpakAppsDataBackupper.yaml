@@ -21,4 +21,4 @@ modules:
     sources:
       - type: archive
         url: https://github.com/vikdevelop/FlatpakAppsDataBackupper/archive/refs/tags/1.0.tar.gz
-        sha256: 5c6542706cf8219a468e6d0253945b89e9a02709de43f2324a64e93b17301a10
+        sha256: 6004bd325a69944a1f869273fafa7c118db5e2fa90439f68a1e7eacd6d13a8b9
