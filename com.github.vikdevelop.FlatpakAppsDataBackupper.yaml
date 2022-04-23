@@ -20,5 +20,5 @@ modules:
       - install -D -t /app/share/icons/hicolor/128x128/apps $FLATPAK_ID.png
     sources:
       - type: archive
-        url: https://github.com/vikdevelop/FlatpakAppsDataBackupper/archive/refs/tags/1.0.tar.gz
-        sha256: 6004bd325a69944a1f869273fafa7c118db5e2fa90439f68a1e7eacd6d13a8b9
+        url: https://github.com/vikdevelop/FlatpakAppsDataBackupper/archive/refs/tags/1.0.1.tar.gz
+        sha256: 2cdd3f5fc037a9b2d81569ebd5c6423e862e4a1a83c94fe69a5a19ea26b5342a
